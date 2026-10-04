@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Tạo đề Kiểm tra - Assessment Studio",
+  "description": "Hệ thống thiết kế cấu trúc đề thi, ma trận, bản đặc tả, sinh câu hỏi có kiểm soát nguồn và tự động thẩm định chất lượng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
